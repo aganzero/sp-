@@ -1,0 +1,5 @@
+git clone https://github.com/aganzero/SportsPlusPlus.git
+cd SportsPlusPlus
+git check out -b test-a
+git add . && git commit -m "test-pr"
+git push origin test-pr
